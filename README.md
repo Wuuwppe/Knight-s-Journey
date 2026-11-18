@@ -31,3 +31,5 @@ Bundles and minimises scripts and outputs them along with a copy of the assets/ 
 To build for distribution run:
 
 `npm run build`# Knight-s-Journey
+
+Play the game now at: https://wuuwppe.itch.io/knights-journey
